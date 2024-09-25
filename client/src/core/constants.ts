@@ -1,0 +1,10 @@
+export const EMPLOYER = 'employer';
+export const WORKER = 'worker';
+export const PENDING = 'pending';
+export const ACCEPTED = 'accepted';
+export const UPDATE = 'update';
+export const ADD = 'add';
+export const JOBS_WS_PATH = '/jobs';
+export const APPLICATIONS_WS_PATH = '/applications';
+export const PASSWORD = 'password';
+export const TEXT = 'text';
